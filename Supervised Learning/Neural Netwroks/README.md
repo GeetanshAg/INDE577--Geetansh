@@ -5,8 +5,8 @@
 
 This project implements a **Titanic Survival Prediction Model** using a **Deep Neural Network (DNN)**. The model processes structured data to predict whether a passenger survived the Titanic disaster based on their attributes.
 
-![Algorithm Overview](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*yhRxxv5L3Jio9KN9h0ezhA.jpeg)  
-*Image: Example Neural Network Architecture (Representative of the model used in this project)*
+![Alt text](https://pythongeeks.org/wp-content/uploads/2022/02/neural-network-algorithms-1200x900.webp)  
+
 
 ---
 
