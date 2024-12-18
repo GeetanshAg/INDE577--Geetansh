@@ -42,7 +42,7 @@ The KNN algorithm classifies a data point based on the majority class among its 
 
 Below is a visual representation of the K-Nearest Neighbors algorithm:
 
-![K-Nearest Neighbors Algorithm Diagram]((https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2F138140042406c5a7ebabc0d667ab17b594977887-512x329.png&w=640&q=75))
+![Alt text](https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2F138140042406c5a7ebabc0d667ab17b594977887-512x329.png&w=640&q=75)
 
 
 ## Conclusion
