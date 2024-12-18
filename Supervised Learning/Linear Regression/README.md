@@ -102,7 +102,6 @@ Below is a diagram illustrating the Linear Regression algorithm:
 
 ![Linear Regression Algorithm Diagram](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg)
 
-*Source: [Linear Regression - Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)*
 
 ## Conclusion
 Linear regression provides a simple and interpretable model for predicting continuous values like salary. However, it assumes a linear relationship between the features and the target variable. If the relationship is non-linear, other models like polynomial regression or decision trees might perform better.
