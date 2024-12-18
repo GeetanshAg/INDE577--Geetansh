@@ -8,7 +8,7 @@ This Python project implements a churn prediction model using the XGBoost algori
 
 XGBoost, short for eXtreme Gradient Boosting, is a scalable and efficient implementation of gradient boosting algorithms. It is widely used for classification and regression tasks due to its high performance and speed. XGBoost builds an ensemble of decision trees sequentially, where each tree corrects the errors of the previous one. It incorporates regularization techniques to prevent overfitting and improve generalization. 
 
-![XGBoost Algorithm]([https://upload.wikimedia.org/wikipedia/commons/0/0e/XGBoost_Logo.png](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/xgboost/img-3.png))
+![XGBoost Algorithm]([https://upload.wikimedia.org/wikipedia/commons/0/0e/XGBoost_Logo.png](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/xgboost/img-3.png])
 
 ## Project Structure
 
